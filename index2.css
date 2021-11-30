@@ -1,0 +1,16 @@
+h1
+{
+	color: white;
+	border-color: blue;
+	border: 5px solid Chartreuse;
+}
+h2
+{
+	color: MediumSpringGreen;
+	text-decoration:underline LightYellow;
+}
+button
+{
+	background-color: blue;
+	color: white;
+}
